@@ -1,4 +1,4 @@
 # CandyCrushProj
 Candy Crush Level Difficulty Analysis
 
-Welcome to my first independent github repository contribution. This is the result of a exploratory data analysis project I did for a class on Data Camp. 
+Welcome to my first independent github repository contribution. This is the result of a exploratory data analysis project I completed for a class on Data Camp. As a console gamer and a former addict of the mobile game Candy Crush, I wanted my first github contribution to be related to video games. I used Jupyter Notebooks and packages available through the tidyverse (ie: dyplr and ggplot2). The project steps included examining and visualizing the difficulty of Candy Crush using a 10% win-rate as the threshhold. The standard error was used to compute the level of uncertainy for each difficulty parameter, then determining the overall diffuclty of completing every level without losing as to recommend game design recommendations to the game designers.  
